@@ -2,7 +2,7 @@ import 'package:adobe_xd/page_link.dart';
 import 'package:flutter/material.dart';
 import 'package:adobe_xd/pinned.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:guide_application/PAGE02.dart';
+import './PAGE02.dart';
 
 class PAGE01State extends StatelessWidget {
   PAGE01State({

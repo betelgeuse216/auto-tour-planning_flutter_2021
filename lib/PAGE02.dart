@@ -1,7 +1,7 @@
 import 'package:adobe_xd/page_link.dart';
 import 'package:flutter/material.dart';
 import 'package:adobe_xd/pinned.dart';
-import 'package:guide_application/PAGE03.dart';
+import './PAGE03.dart';
 
 class PAGE02 extends StatelessWidget {
   PAGE02({
