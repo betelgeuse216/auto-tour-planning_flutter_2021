@@ -1,7 +1,7 @@
 import 'package:adobe_xd/page_link.dart';
 import 'package:flutter/material.dart';
 import 'package:adobe_xd/pinned.dart';
-import 'package:guide_application/PAGE04.dart';
+import 'package:auto_tour_planning_flutter/PAGE04.dart';
 
 class PAGE03 extends StatelessWidget {
   PAGE03({
