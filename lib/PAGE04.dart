@@ -2,7 +2,7 @@ import 'package:adobe_xd/page_link.dart';
 import 'package:flutter/material.dart';
 import 'package:adobe_xd/pinned.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import './PAGE05.dart';
+import 'package:auto_tour_planning_flutter/PAGE05.dart';
 
 class PAGE04 extends StatelessWidget {
   PAGE04({
