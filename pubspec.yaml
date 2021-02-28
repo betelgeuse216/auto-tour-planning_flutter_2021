@@ -33,6 +33,7 @@ dependencies:
   adobe_xd: ^1.0.0+1
   snapping_sheet: ^2.0.1
   responsive_grid: ^1.2.1+1
+  responsive_framework: ^0.0.14
 
 dev_dependencies:
   flutter_test:
