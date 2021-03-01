@@ -15,7 +15,6 @@ class TopPage extends StatelessWidget {
         children: <Widget>[
           // Adobe XD layer: 'img_mv_01' (shape)
           Container(
-            width: 375.0,
             height: 440.0,
             decoration: BoxDecoration(
               image: DecorationImage(
@@ -27,7 +26,6 @@ class TopPage extends StatelessWidget {
           Transform.translate(
             offset: Offset(10.0, 50.0),
             child: SizedBox(
-              width: 355.0,
               height: 50.0,
               child: Stack(
                 children: <Widget>[
@@ -55,7 +53,6 @@ class TopPage extends StatelessWidget {
                   Pinned.fromSize(
                     bounds: Rect.fromLTWH(111.0, 13.0, 134.0, 24.0),
                     size: Size(355.0, 50.0),
-                    fixedWidth: true,
                     fixedHeight: true,
                     child: Text(
                       '何をしたいですか？',
@@ -89,7 +86,6 @@ class TopPage extends StatelessWidget {
           Transform.translate(
             offset: Offset(20.0, 144.0),
             child: SizedBox(
-              width: 156.0,
               height: 82.0,
               child: Stack(
                 children: <Widget>[
@@ -119,7 +115,7 @@ class TopPage extends StatelessWidget {
             offset: Offset(21.0, 238.0),
             child: SizedBox(
               width: 140.0,
-              height: 34.0,
+              height: 40.0,
               child: Stack(
                 children: <Widget>[
                   Pinned.fromSize(
@@ -243,7 +239,6 @@ class TopPage extends StatelessWidget {
           Transform.translate(
             offset: Offset(10.0, 498.0),
             child: Container(
-              width: 355.0,
               height: 58.0,
               decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(5.0),
@@ -290,7 +285,6 @@ class TopPage extends StatelessWidget {
                           Transform.translate(
                             offset: Offset(112.0, 25.0),
                             child: SizedBox(
-                              width: 53.0,
                               height: 48.0,
                               child: Stack(
                                 children: <Widget>[
